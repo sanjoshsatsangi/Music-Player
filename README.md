@@ -8,3 +8,15 @@ A simple and intuitive music player built with React, allowing users to play the
 - Display of album art and track information
 - Responsive design that adapts to different screen sizes
 - Smooth user interface transitions
+
+## Screenshots 📸
+
+![Music Player Screenshot](https://github.com/user-attachments/assets/f5020085-d2cc-409f-87f7-fc56b0ac7e72)  
+*Your app playing music with album art displayed.*
+
+## Live Demo 🌐
+
+Check out the live demo here: [Music Player on Netlify](https://sanjoshmusicplayer.netlify.app/)
+
+## Project Structure 🗂️
+
