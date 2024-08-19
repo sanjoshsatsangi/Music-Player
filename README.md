@@ -12,7 +12,6 @@ A simple and intuitive music player built with React, allowing users to play the
 ## Screenshots 📸
 
 ![Music Player Screenshot](https://github.com/user-attachments/assets/f5020085-d2cc-409f-87f7-fc56b0ac7e72)  
-*Your app playing music with album art displayed.*
 
 ## Live Demo 🌐
 
