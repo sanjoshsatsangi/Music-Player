@@ -8,4 +8,3 @@ A simple and intuitive music player built with React, allowing users to play the
 - Display of album art and track information
 - Responsive design that adapts to different screen sizes
 - Smooth user interface transitions
-- Firebase integration for real-time data updates (e.g., playlists, track info)
