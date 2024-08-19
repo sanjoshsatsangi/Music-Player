@@ -17,5 +17,4 @@ A simple and intuitive music player built with React, allowing users to play the
 
 Check out the live demo here: [Music Player on Netlify](https://sanjoshmusicplayer.netlify.app/)
 
-## Project Structure 🗂️
 
